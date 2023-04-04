@@ -1,1 +1,6 @@
-# Web en contrucción
+# Tecnología usada
+
+* HTML
+* CSS
+* Javascript
+* Media query
